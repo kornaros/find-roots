@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: find-roots
+    env: docker
+    plan: free
